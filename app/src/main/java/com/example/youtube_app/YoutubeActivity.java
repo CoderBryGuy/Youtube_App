@@ -26,7 +26,7 @@ public class YoutubeActivity extends YouTubeBaseActivity
 
         ConstraintLayout layout = (ConstraintLayout)getLayoutInflater().inflate(R.layout.activity_youtube, null);
         setContentView(layout);
-//
+
 //        Button button1 = new Button(this);
 //        button1.setLayoutParams(new ConstraintLayout.LayoutParams(300, 80));
 //        button1.setText("Button added");
